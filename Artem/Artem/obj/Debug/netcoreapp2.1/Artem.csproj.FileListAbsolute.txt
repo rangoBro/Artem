@@ -1,0 +1,11 @@
+C:\Users\Fiete\source\repos\Artem\Artem\bin\Debug\netcoreapp2.1\Artem.deps.json
+C:\Users\Fiete\source\repos\Artem\Artem\bin\Debug\netcoreapp2.1\Artem.runtimeconfig.json
+C:\Users\Fiete\source\repos\Artem\Artem\bin\Debug\netcoreapp2.1\Artem.runtimeconfig.dev.json
+C:\Users\Fiete\source\repos\Artem\Artem\bin\Debug\netcoreapp2.1\Artem.dll
+C:\Users\Fiete\source\repos\Artem\Artem\bin\Debug\netcoreapp2.1\Artem.pdb
+C:\Users\Fiete\source\repos\Artem\Artem\obj\Debug\netcoreapp2.1\Artem.csprojAssemblyReference.cache
+C:\Users\Fiete\source\repos\Artem\Artem\obj\Debug\netcoreapp2.1\Artem.csproj.CoreCompileInputs.cache
+C:\Users\Fiete\source\repos\Artem\Artem\obj\Debug\netcoreapp2.1\Artem.AssemblyInfoInputs.cache
+C:\Users\Fiete\source\repos\Artem\Artem\obj\Debug\netcoreapp2.1\Artem.AssemblyInfo.cs
+C:\Users\Fiete\source\repos\Artem\Artem\obj\Debug\netcoreapp2.1\Artem.dll
+C:\Users\Fiete\source\repos\Artem\Artem\obj\Debug\netcoreapp2.1\Artem.pdb
